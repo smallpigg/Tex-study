@@ -1,0 +1,22 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{times,CJK,CJKnumb,CJKulem}
+\begin{document}
+\begin{CJK*}{GBK}{song}
+
+\title{辞职申请}
+\date{}
+\maketitle
+
+\setlength{\parindent}{20pt}
+大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
+\\ \indent
+大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
+\\ \indent
+大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
+\\ \indent
+大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
+\vspace{2cm}
+\begin{flushright}zgc\end{flushright}
+
+\end{CJK*}
+\end{document}
