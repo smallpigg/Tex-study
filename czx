@@ -1,22 +1,36 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage{times,CJK,CJKnumb,CJKulem}
+
 \begin{document}
 \begin{CJK*}{GBK}{song}
 
 \title{辞职申请}
 \date{}
+\pagestyle{empty}
 \maketitle
 
-\setlength{\parindent}{20pt}
-大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
-\\ \indent
-大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
-\\ \indent
-大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
-\\ \indent
-大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊，大家好，我是朱国臣，我要走了，大家继续加油啊
-\vspace{2cm}
-\begin{flushright}zgc\end{flushright}
+\setlength{\parindent}{26pt}
+
+\large
+尊敬的领导:
+
+\medskip
+由于我个人的一些原因。我向公司提出辞职申请，望领导批准。
+
+\medskip
+在劳雷公司工作4年多的时间。4年里，领导和同事给予了很大的关心和培养。对领导和同事给予的所有帮助我表示深深的感谢。劳雷公司给予了我很多很多，在这里学到了很多东西，积累了很多工作和人生的经验。我对公司也表示同样深深的感谢。
+
+\medskip
+祝愿所有的同事身体健康，工作顺利，祝公司越来越好。
+
+
+
+\vspace{1.5cm}
+
+\hfill 朱国臣\hspace{1.5em}
+
+\vspace{0.2cm}
+\hfill 2016年8月29日\hspace{1.5em}
 
 \end{CJK*}
 \end{document}
